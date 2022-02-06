@@ -17,8 +17,8 @@
 
                     <li><a href="/">Home</a></li>
                     <li><a href="/videos">Videos</a></li>
-                    <li><a href="/about">Sobre</a></li>
-                    <li><a href="/contact">Contato</a></li>
+                    <li><a href="/Sobre">Sobre</a></li>
+                    <li><a href="/Contato">Contato</a></li>
 
                 </ul>
 
