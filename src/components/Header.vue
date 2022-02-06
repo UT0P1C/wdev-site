@@ -15,10 +15,10 @@
 
                 <ul>
 
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/videos">Videos</a></li>
-                    <li><a href="/Sobre">Sobre</a></li>
-                    <li><a href="/Contato">Contato</a></li>
+                    <li><router-link to="/">Home</router-link></li>
+                    <li><router-link to="/videos">Videos</router-link></li>
+                    <li><router-link to="/Sobre">Sobre</router-link></li>
+                    <li><router-link to="/Contato">Contato</router-link></li>
 
                 </ul>
 
